@@ -1,0 +1,6 @@
+cr2_to_jpg.py
+raw_to_jpg.py
+*.xml
+.idea
+.venv
+__pycache__
